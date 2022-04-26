@@ -1,0 +1,23 @@
+a:hover{
+    background-color: orange;
+}
+figure{
+    width: 25%;
+    margin: auto;
+}
+.fotos{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    font-size: larger;
+}
+body{
+    background-color: rgb(83, 4, 70);
+}
+.carousel-inner{
+    display: flex;
+    margin: auto;
+    padding: 25px;
+    width: 50%;
+    height: 50%;
+}
